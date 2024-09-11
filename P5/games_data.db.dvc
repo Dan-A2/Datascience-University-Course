@@ -1,0 +1,5 @@
+outs:
+- md5: a219cf2a9907a857fbdf598a46696319
+  size: 5517312
+  hash: md5
+  path: games_data.db
